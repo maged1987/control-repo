@@ -9,9 +9,4 @@
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 mod 'tomcat',
-  git:    'https://github.com/maged1987/Tomcat-puppet.git',
-#  commit: '1b6f89afdde0df7f9433a163d5c4b5328eac5779'
-
-#mod 'apache',
-#  git:    'https://github.com/puppetlabs/puppetlabs-apache',
-#  branch: 'docs_experiment'
+ git:    'https://github.com/maged1987/Tomcat-puppet.git',
